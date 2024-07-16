@@ -1,5 +1,8 @@
 # Admin-LoginPage
 
+![Screenshot of the Project](Admin_login.jpeg)
+
+
 ### Files
 
 - `index.html`: The main HTML file for the web project.
